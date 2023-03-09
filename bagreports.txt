@@ -1,3 +1,14 @@
-bag1
-bag2
-bag3
+ID: 01
+Title: new BR
+Environment: Windows 10
+Precondition: url
+Severity: critical
+Priority: medium
+STR: 1,2,3
+AR:
+ER:
+Attachments:
+--
+
+         Author: Mustaqim
+         Date: XX.XX.XXXX
